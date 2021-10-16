@@ -8,5 +8,4 @@
 
 - 🌱 I’m currently learning React and Php
 - 💬 Ask me about anything
-- ⚡ Fun fact: I love to coding and drawing 
-
+- ⚡ Fun fact: I love to coding, football and anime.
