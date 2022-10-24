@@ -2,7 +2,7 @@
 
 
 
-### I'm an IT student
+### I'm a Web Developer
 
 
 - 🌱 I’m currently learning MERN.
