@@ -2,11 +2,10 @@
 
 
 
-### I'm a Web Developer
+### Software Engineer
 
-
-- 🌱 I’m currently learning MERN.
 - ✨ Skills:
+  - 💎 C#
   - 💎 JavaScript
   - 💎 PHP
   - 💎 Python
